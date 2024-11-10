@@ -4,7 +4,7 @@
 
 - `docker build -t js_nginx demo/`
 - `docker run -d -p 8080:80 js_nginx`
-- visit <http://localhost:8081>
+- visit <http://localhost:8080>
 
 ## Used links:
 
